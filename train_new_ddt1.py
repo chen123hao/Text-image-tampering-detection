@@ -1,18 +1,7 @@
 ###############################################################
 ##### @Title:  ICDAR 2023 DTT in image1: Text Manipulation Classification
-##### @Time:  2023/02/18
-##### @Author: Frank
-##### @Describe:
-#  part0: data preprocess
-#  part1: build_transforme() & build_dataset() & build_dataloader()
-#  part2: build_model()
-#  part3: build_loss()
-#  part4: build_metric()
-#  part5: train_one_epoch() & valid_one_epoch() & test_one_epoch()
-##### @To do:
-#  submit code
-##### @Reference:
-#  None
+##### @Time:  2023/03/2
+##### @Author: ChenHao
 ###############################################################
 import os
 import pdb
